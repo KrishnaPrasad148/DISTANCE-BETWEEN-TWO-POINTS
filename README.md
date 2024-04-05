@@ -36,3 +36,4 @@ print(f"The distance between ({x1},{y1}) and ({x2},{y2}) is {ans:.2f}")
 
 
 ### RESULT:
+Thus the Distance between of two points is successfully calculated 
