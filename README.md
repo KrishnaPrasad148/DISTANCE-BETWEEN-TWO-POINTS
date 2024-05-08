@@ -31,7 +31,7 @@ print(f"The distance between ({x1},{y1}) and ({x2},{y2}) is {ans:.2f}")
 
 
 ### OUTPUT:
-![image](https://github.com/KrishnaPrasad148/DISTANCE-BETWEEN-TWO-POINTS/assets/147332763/cee5aac1-0b13-4f24-a91c-d436c805f467)
+![Screenshot 2024-05-08 063236](https://github.com/KrishnaPrasad148/DISTANCE-BETWEEN-TWO-POINTS/assets/147332763/8b07ed80-91d0-462c-90da-e20670dd64cd)
 
 
 
